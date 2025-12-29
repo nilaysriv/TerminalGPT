@@ -92,4 +92,4 @@ terminalgpt
 ---
 
 ## Screenshots
-https://github.com/nilaysriv/TerminalGPT/blob/main/Screenshots/Screenshot_20251229_122103-1.png
+![Terminal-GPT](https://github.com/nilaysriv/TerminalGPT/raw/main/Screenshots/Screenshot_20251229_122103-1.png)
